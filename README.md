@@ -18,9 +18,7 @@ Color Clash is not just a game; it's a playable demonstration of a classic psych
 
 First described by John Ridley Stroop in the 1930s, the Stroop Effect is a powerful demonstration of interference in the brain's processing. It shows that it is significantly harder and takes longer to name the font color of a word than it does to simply read the word itself, especially when the word is a conflicting color name.
 
-For example, if you see the word:
-
-# \<p style="color: blue;"\>RED\</p\>
+For example, Imagine the word **RED** written in blue color.
 
 Your brain experiences a cognitive clash.
 
